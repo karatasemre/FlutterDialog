@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
       builder: (BuildContext context) => CustomDialog(
         headerIcon: Icon(Icons.info_outline, color: Colors.red, size: 44,),
         description:
-        "Bu yıl için beklenen finansman limitine ulaşıldığından dolayı finansman başvuruları yeni yıldan itibaren işleme alınacaktır.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris scelerisque eget dolor vitae rhoncus.",
         closeIcon: Icon(Icons.close, color: Colors.grey, size: 22,),
       ),
 
