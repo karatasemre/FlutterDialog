@@ -1,4 +1,4 @@
-# Flutter Dialog Example
+# Flutter Dialog
 
 
 ![q](https://user-images.githubusercontent.com/7110339/59515292-77241400-8ec7-11e9-9272-847d53d593f7.png)
